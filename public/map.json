@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1,
+    "title": "Add Dark Mode",
+    "description": "Users want a dark mode feature for better accessibility at night.",
+    "category": "Feature",
+    "status": "In Progress",
+    "upvotes": 120
+  },
+  {
+    "_id": 2,
+    "title": "Performance Optimization",
+    "description": "Improve app loading speed and responsiveness.",
+    "category": "Improvement",
+    "status": "Completed",
+    "upvotes": 95
+  },
+  {
+    "_id": 3,
+    "title": "Mobile App Release",
+    "description": "Launch Android and iOS apps.",
+    "category": "Goal",
+    "status": "Planned",
+    "upvotes": 180
+  },
+  {
+    "_id": 4,
+    "title": "Multi-language Support",
+    "description": "Add support for Spanish, French, and Bengali languages.",
+    "category": "Feature",
+    "status": "Planned",
+    "upvotes": 75
+  },
+  {
+    "_id": 5,
+    "title": "User Profile Editing",
+    "description": "Allow users to edit their name, photo, and bio.",
+    "category": "Improvement",
+    "status": "In Progress",
+    "upvotes": 103
+  },
+  {
+    "_id": 6,
+    "title": "Admin Dashboard",
+    "description": "Create an admin panel for managing user content.",
+    "category": "Feature",
+    "status": "Planned",
+    "upvotes": 88
+  },
+  {
+    "_id": 7,
+    "title": "Bug Reporting System",
+    "description": "Enable users to report bugs directly from the app.",
+    "category": "Improvement",
+    "status": "In Progress",
+    "upvotes": 64
+  },
+  {
+    "_id": 8,
+    "title": "Two-Factor Authentication",
+    "description": "Add 2FA for enhanced account security.",
+    "category": "Feature",
+    "status": "Completed",
+    "upvotes": 110
+  },
+  {
+    "_id": 9,
+    "title": "Public Roadmap Page",
+    "description": "Let users view the roadmap without logging in.",
+    "category": "Goal",
+    "status": "Planned",
+    "upvotes": 140
+  },
+  {
+    "_id": 10,
+    "title": "Live Chat Support",
+    "description": "Add real-time chat for customer support.",
+    "category": "Feature",
+    "status": "In Progress",
+    "upvotes": 132
+  }
+]
