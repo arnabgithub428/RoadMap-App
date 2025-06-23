@@ -1,4 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
+import logo from "../../assets/logo.png"
 
 const Header = () => {
 
@@ -22,7 +23,7 @@ const Header = () => {
                         {links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl"><img src="/src/assets/logo.png" className="w-10 h-10" alt="" /></a>
+                <a className="btn btn-ghost text-xl"><img src={logo} className="w-10 h-10" alt="" /></a>
                 
             </div>
             <div className="navbar-center hidden lg:flex">

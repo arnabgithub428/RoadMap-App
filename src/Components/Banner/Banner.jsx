@@ -1,4 +1,4 @@
-import React from 'react';
+import logo from "../../assets/hreoImg.jpg"
 
 const Banner = () => {
     return (
@@ -6,7 +6,7 @@ const Banner = () => {
             <div className="max-w-6xl mx-auto gap-20 hero-content flex-col lg:flex-row-reverse">
                 <div className="w-1/2">
                     <img
-                        src="/src/assets/hreo_img.jpg"
+                        src={logo}
                         className="max-w-full rounded-lg shadow-2xl"
                     />
                 </div>
